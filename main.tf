@@ -10,3 +10,7 @@ resource "azurerm_resource_group" "manoj22" {
   name     = "Manoj22"
   location = "eastus"
 }
+resource "azurerm_resource_group" "manoj33" {
+  name     = "Manoj33"
+  location = "eastus"
+}
